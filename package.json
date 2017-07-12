@@ -1,0 +1,23 @@
+{
+  "name": "xr-template-portal",
+  "version": "1.0.0",
+  "description": "xr-template-portal",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziaochina/xr-template-portal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ziaochina/xr-template-portal/issues"
+  },
+  "homepage": "https://github.com/ziaochina/xr-template-portal#readme"
+}
