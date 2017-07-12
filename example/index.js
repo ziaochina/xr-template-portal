@@ -1,10 +1,10 @@
 import { config, start, componentFactory } from 'xr-meta-engine'
 import myConfig  from './config'
 
-import about from './src/apps/about/index.js'
-import app1 from './src/apps/app1/index.js'
-import app2 from './src/apps/app2/index.js'
-import xr_template_portal from './src/apps/xr-template-portal/index.js'
+import about from './apps/xr-template-portal/apps/about/index.js'
+import app1 from './apps/xr-template-portal/apps/app1/index.js'
+import app2 from './apps/xr-template-portal/apps/app2/index.js'
+import xr_template_portal from './apps/xr-template-portal/index.js'
 
 const apps = {
 	[about.name]:about,	

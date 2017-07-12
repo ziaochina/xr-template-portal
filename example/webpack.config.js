@@ -4,9 +4,9 @@ var HtmlWebpackPlugin = require('html-webpack-plugin');
 
 
 var plugins = [
-   /* new webpack.DefinePlugin({
+    new webpack.DefinePlugin({
         "process.env.NODE_ENV": JSON.stringify('production')
-    })*/
+    })
 ]
 
 if (process.env.COMPRESS) {
